@@ -14,17 +14,7 @@
 
 ---
 ## 💻 Skills
-<!--  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) -->
- <!-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)   
-<div style="display: inline_block"><br>
-  <p>
-  <img alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-     
-  </p>
-    
-</div>-->
+
 <div align="center">
 <details>
     <summary>
@@ -64,12 +54,6 @@
 ---
 
 ## 🔝 Github Stats
-
-
-<!--<br></br>
-<div>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=monilghori&theme=chartreuse-dark&hide_border=true" />
-</div>-->
    
 <br></br>
    
