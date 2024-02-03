@@ -34,21 +34,21 @@
 
 ### 🚀 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,mysql,postgres,nodejs)](https://www.github.com/NisargPipaliya)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,mysql,postgres,nodejs)](https://www.github.com/monilghori)
 
 ### 💻 Libraries & Framework
-[![My Skills](https://skillicons.dev/icons?i=react&perline=11&theme=dark)](https://www.github.com/NisargPipaliya)
+[![My Skills](https://skillicons.dev/icons?i=react&perline=11&theme=dark)](https://www.github.com/monilghori)
 <a href="https://www.github.com/monilghori" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/></a>
 <a href="https://www.github.com/monilghori" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/></a>
 <a href="https://www.github.com/monilghori" target="_blank" rel="noreferrer"><img width="120" height="60" src="https://matplotlib.org/_static/logo_dark.svg"></a>
 <a href="https://www.github.com/monilghori" target="_blank" rel="noreferrer"><img width="120" height="60" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></a>
 ### 🧑🏻‍💻 Tools & Platform
-[![My Skills](https://skillicons.dev/icons?i=mongodb,git,github,linux,docker,powershell,eclipse,vscode,idea)](https://www.github.com/NisargPipaliya)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,git,github,linux,docker,powershell,eclipse,vscode,idea)](https://www.github.com/monilghori)
 
-<a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/></a>
-<a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp"/></a>
-<a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/></a>
-<a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/></a>
+<a href="https://www.github.com/monilghori" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/></a>
+<a href="https://www.github.com/monilghori" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp"/></a>
+<a href="https://www.github.com/monilghori" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/></a>
+<a href="https://www.github.com/monilghori" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/></a>
 
 
 </details>
