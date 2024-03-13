@@ -196,14 +196,14 @@
 
 <!--SNAKE-->
 
-
+<!--
 <p align="center">
 <a href="https://github.com/monilghori">
    <img alt="github-snake" src="https://raw.githubusercontent.com/monilghori/monilghori/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
 </p>
 
-
+-->
 
 <!--THANKS-->
  
